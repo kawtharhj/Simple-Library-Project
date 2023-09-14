@@ -1,0 +1,27 @@
+<?php
+require('connection.php');
+
+
+$name=$_POST['Aname'];
+$conn = connect();
+
+$query = "Delete from [LibraryFinal].[dbo].[AUTHOR]
+where AUTHORNAME = '{$name}' ";
+$result = sqlsrv_query($conn, $query);  //$conn is your connection in 'connection.php'
+	
+
+#checks if the borrow succeed
+if($result === false){
+	die( print_r( sqlsrv_errors(), true));
+}
+
+#checks if the search brought some row and if it is one only row
+if(sqlsrv_has_rows($result) != 1){
+	echo 'alert("Deleting Author Failed!")';
+	header('Location: Category.php');
+}
+else {
+	
+	header('Location: Category.php');
+}
+?>

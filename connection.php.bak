@@ -1,0 +1,27 @@
+<?php
+
+function connect() {
+	$serverName = "DESKTOP-5H8VKF7\SQLEXPRESS"; //serverName\instanceName
+
+	$connectionInfo = array( "Database"=>"LibraryFinal" ,"UID"=>"kawthar","PWD"=>"koko" );
+	$conn = sqlsrv_connect( $serverName, $connectionInfo);
+
+	if( $conn ) {
+		 return $conn;
+	}else{
+		die( print_r( sqlsrv_errors(), true));
+		return 0; 
+	}
+}
+
+if(!function_exists('getCurrentPage')){
+	function getCurrentPage(){
+		return substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);
+	}
+}
+if(getCurrentPage=="main.php" ){
+	$username='guest';
+	@password='guest';
+}
+
+?>

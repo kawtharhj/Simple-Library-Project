@@ -1,0 +1,152 @@
+
+
+
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Your&nbsp;Library, Details:">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Profile</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Profile.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 4.5.4, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i">
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+<meta name="theme-color" content="#2799b1">
+    <meta property="og:title" content="Profile">
+    <meta property="og:type" content="website">
+  </head>
+  <body data-home-page="Search.html" data-home-page-title="Search" class="u-body u-xl-mode"><header class="u-clearfix u-grey-10 u-header u-sticky u-header" id="sec-9c34"><h1 class="u-text u-text-1">
+        <span class="u-text-palette-5-dark-1">Your</span>&nbsp;<span class="u-text-custom-color-1">Library</span>
+      </h1><nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="LG">
+        <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; text-transform: uppercase; font-weight: 500;">
+          <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#" style="font-size: calc(1em + 30px);">
+            <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+            <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+          </a>
+        </div>
+        <div class="u-custom-menu u-nav-container">
+          <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-custom-color-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-button-style u-hover-palette-3-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Home.html" style="padding: 20px 52px;">Home</a>
+</li><li class="u-nav-item"><a class="u-active-custom-color-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-button-style u-hover-palette-3-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Search.html" style="padding: 20px 52px;">Search</a>
+</li><li class="u-nav-item"><a class="u-active-custom-color-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-button-style u-hover-palette-3-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Borrow.html" style="padding: 20px 52px;">Borrow</a>
+</li><li class="u-nav-item"><a class="u-active-custom-color-1 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-button-style u-hover-palette-3-light-1 u-nav-link u-text-active-white u-text-grey-90 u-text-hover-white" href="Profile.html" style="padding: 20px 53px 20px 52px;">Profile</a>
+</li></ul>
+        </div>
+        <div class="u-custom-menu u-nav-container-collapse">
+          <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+            <div class="u-inner-container-layout u-sidenav-overflow">
+              <div class="u-menu-close"></div>
+              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 14px 48px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Search.html" style="padding: 14px 48px;">Search</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Borrow.html" style="padding: 14px 48px;">Borrow</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Profile.html" style="padding: 14px 48px;">Profile</a>
+</li></ul>
+            </div>
+          </div>
+          <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+        </div>
+      </nav></header> 
+  
+  
+  
+  
+  
+  <!--Body-->
+  <body class="u-body u-xl-mode"><header class="u-clearfix u-grey-10 u-header u-sticky u-header" id="sec-9c34"></header>
+    <section class="u-clearfix u-image u-section-1" id="sec-d44c" data-image-width="612" data-image-height="408">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-gutter-6 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-23 u-layout-cell-1">
+                <div class="u-container-layout u-container-layout-1"><span class="u-file-icon u-icon u-icon-1"><img src="images/1830845.png" alt=""></span>
+                </div>
+              </div>
+              <div class="u-align-center u-container-style u-layout-cell u-opacity u-opacity-40 u-palette-3-light-1 u-right-cell u-shape-rectangle u-size-37 u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-direction="">
+                <div class="u-border-custom-color-1 u-container-layout u-valign-top u-container-layout-2">
+                  <h3 class="u-text u-text-custom-color-1 u-text-1">Profile Informations</h3>
+                  <div class="u-table u-table-responsive u-table-1">
+                   
+					
+					<table class="u-table-entity">
+                      <colgroup>
+                        <col width="50%">
+                        <col width="50%">
+                      </colgroup>
+                      <tbody class="u-table-body">
+					  
+					  
+        <?php
+		
+				require ('connection.php');
+
+				require ('login.php');
+				$conn = connect();   
+				$email = $_POST['email'];
+		
+            $member_email = $_SESSION['email'];
+            $qry = "SELECT  MEMBERID ,MEMBERNAME,Address
+            FROM Members 
+            WHERE email = '{$member_email}'";
+
+            $result = odbc_exec($conn,$qry);
+
+            while ($Mem = odbc_fetch_array($result))
+            {
+        
+        ?>
+                        <tr style="height: 135px;">
+                          <td class="u-align-left u-custom-font u-font-merriweather u-table-cell u-table-valign-middle u-text-custom-color-1 u-table-cell-1"> Member Name</td>
+                          <td class="u-table-cell u-table-cell-2"> <?php echo $Mem['MEMBERNAME'] ?></td>
+                        </tr>
+                        <tr style="height: 130px;">
+                          <td class="u-custom-font u-font-merriweather u-table-cell u-text-custom-color-1 u-table-cell-3">Member ID</td>
+                          <td class="u-table-cell"><?php echo $Mem['MEMBERID'] ?></td>
+                        </tr>
+                        <tr style="height: 130px;">
+                          <td class="u-custom-font u-font-merriweather u-table-cell u-text-custom-color-1 u-table-cell-5">Phone</td>
+                          <td class="u-table-cell"><?php echo $Mem['Address'] ?></td>
+                        </tr>
+                      </tbody>
+                    </table>
+					
+					
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-custom-color-2 u-footer u-footer" id="sec-90c0"><div class="u-clearfix u-sheet u-sheet-1"><span class="u-file-icon u-icon u-text-white u-icon-1"><img src="images/4.png" alt=""></span>
+        <p class="u-small-text u-text u-text-variant u-text-1">Stay tuned for updates!</p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  </body>
+</html>

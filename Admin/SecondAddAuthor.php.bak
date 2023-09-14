@@ -1,0 +1,32 @@
+<?php
+
+require ('connection.php');
+#catches data submitted by html form
+$AID = $_POST['AuthorID'];
+$name = $_POST['AuthorName'];
+$nat= $_POST['Nationality'];
+$conn = connect();
+
+#Insert Borrow data in the database
+
+$query = "Insert into [LibraryFinal].[dbo].[AUTHOR](AUTHORID,AUTHORNAME,NATIONALITY)
+values ('{$AID}','{$name}','{$nat}')";
+$result = sqlsrv_query($conn, $query);  //$conn is your connection in 'connection.php'
+	
+
+#checks if the borrow succeed
+if($result === false){
+	die( print_r( sqlsrv_errors(), true));
+}
+
+#checks if the search brought some row and if it is one only row
+if(sqlsrv_has_rows($result) != 1){
+	echo 'alert("Adding Book Failed!")';
+	header('Location: Author.php');
+}
+else {
+	
+	header('Location: AddCategory.php');
+}
+?>
+ 
