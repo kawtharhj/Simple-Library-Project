@@ -1,0 +1,11 @@
+USE master
+GO
+
+CREATE DATABASE LibraryFinal	
+ON
+ 	( NAME = LibFinal_dat,   
+		FILENAME = 'C:\xampp\htdocs\libweb\CreateDatabase\CreateDatabaseLibFinal.mdf')
+LOG ON  	
+	( NAME = 'AirLines_log',   
+		FILENAME = 'C:\xampp\htdocs\libweb\CreateDatabase\CreateDatabaseLibFinal.ldf')
+go
